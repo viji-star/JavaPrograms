@@ -21,6 +21,16 @@ public class CalculatorDemo {
 		calculator1.display();
 		System.out.println("Calculator2 values:");
 		calculator1.display();
+		
+		if (calculator1 == calculator2)
+		{
+			System.out.println("Example for == function");
+		}
+		
+		else
+		{
+			System.out.println("Not an Example for == function");
+		}
 	}
 
 }
