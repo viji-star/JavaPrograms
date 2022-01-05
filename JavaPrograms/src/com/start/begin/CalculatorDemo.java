@@ -26,6 +26,11 @@ public class CalculatorDemo {
 		{
 			System.out.println("Example for == function");
 		}
+		
+		else
+		{
+			System.out.println("Not an Example for == function");
+		}
 	}
 
 }
