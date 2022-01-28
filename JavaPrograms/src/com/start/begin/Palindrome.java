@@ -2,6 +2,7 @@ package com.start.begin;
 
 public class Palindrome {
 
+	
 	public static void main(String[] args) {
 		//State whether given string is palindrome or not? 
 				//(E.g. I/P NITIN O/P: Given String is Palindrome)
